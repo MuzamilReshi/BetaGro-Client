@@ -1,0 +1,13 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+h1, p {
+  font-family: 'Roboto';
+}
+
+.w-800px {
+  width: 600px;
+}
+
+.h-460px {
+  height: 260px;
+}
